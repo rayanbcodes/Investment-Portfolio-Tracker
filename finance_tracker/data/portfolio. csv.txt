@@ -1,0 +1,6 @@
+Stock,Shares,Purchase Price
+AAPL,10,150
+TSLA,5,600
+GOOGL,2,2500
+AMZN,1,3300
+MSFT,8,280
